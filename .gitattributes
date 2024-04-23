@@ -5,3 +5,4 @@ zoom_amd64.deb filter=lfs diff=lfs merge=lfs -text
 xampp-linux-x64-8.1.10-0-installer.run filter=lfs diff=lfs merge=lfs -text
 virtualbox-7.0_7.0.16-162802~Ubuntu~jammy_amd64.deb filter=lfs diff=lfs merge=lfs -text
 Новая[[:space:]]папка filter=lfs diff=lfs merge=lfs -text
+papka filter=lfs diff=lfs merge=lfs -text
